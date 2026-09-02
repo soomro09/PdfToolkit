@@ -5,11 +5,17 @@ An all-in-one PDF utility app built with Flutter — view, compress, scan docume
 ## 🚀 Features
 
 ✅ View and browse PDF documents
+
 ✅ Compress PDFs to reduce file size
+
 ✅ Scan physical documents straight into a PDF (ML Kit document scanner)
+
 ✅ Reorder and organize pages
+
 ✅ Pick and import existing PDFs/images
+
 ✅ Share PDFs to other apps
+
 ✅ Color-coded annotation support
 
 ## 🛠️ Tech Stack
